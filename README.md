@@ -1,7 +1,7 @@
 # FiveM-to-Discord-API-Based-Player-Join-Leave-Tracker
 Discord bot that monitors a FiveM server in real time and sends automated player join/leave updates to a Discord channel using the official FiveM API.
 
-🎮 FiveM Player Activity Discord Bot
+## 🎮 FiveM Player Activity Discord Bot
 
 A real-time Discord monitoring bot that tracks player activity on a FiveM server and automatically posts join/leave notifications to a designated Discord channel using rich embeds.
 This bot fetches live server data directly from the official FiveM servers API, detects player changes, and keeps your community informed with clean, readable updates.
